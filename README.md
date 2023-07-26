@@ -67,7 +67,7 @@ Contributions are part of this open source project. Any contributions you make a
 
 - GitHub - [griffondean](https://github.com/griffondean/)
 - Linkedin - [Griffon Dean](https://www.linkedin.com/in/griffon-dean-433088111/)
-- Project Repository Link: https://github.com/griffondean/book-search
+- Project Repository Link: https://github.com/griffondean/social-media
 
 [Back To Top](#book-search)
 
